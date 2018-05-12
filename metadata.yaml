@@ -1,0 +1,40 @@
+_repo: The-Hill-of-Venus_39970
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+  - agent_name: Verburg, P.
+    gutenberg_agent_id: '40343'
+    url: http://www.gutenberg.org/2009/agents/40343
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gallizier, Nathan
+    birthdate: 1866
+    deathdate: 1927
+    gutenberg_agent_id: '40342'
+    url: http://www.gutenberg.org/2009/agents/40342
+description: ''
+gutenberg_issued: '2012-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Italy -- History -- 13th century -- Fiction'
+title: The Hill of Venus
+url: http://www.gutenberg.org/ebooks/39970
